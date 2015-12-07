@@ -10,7 +10,7 @@ name: Brett Reasor
 description: Systems Administrator and more...
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-
+google_analytics: UA-8176887-1
 
 # Build settings
 markdown: kramdown
