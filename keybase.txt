@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/breasor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brettreasor.com
+  * I am breasor (https://keybase.io/breasor) on keybase.
+  * I have a public key ASDcLSneqzTqGWr8c6Yt_JDh6mMyKu6VXhPp3PFYP4TLzQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dc2d29deab34ea196afc73a62dfc90e1ea63322aee955e13e9dcf1583f84cbcd0a",
+      "host": "keybase.io",
+      "kid": "0120dc2d29deab34ea196afc73a62dfc90e1ea63322aee955e13e9dcf1583f84cbcd0a",
+      "uid": "27068a942bf34d36a496ec5e3e040919",
+      "username": "breasor"
+    },
+    "merkle_root": {
+      "ctime": 1516026710,
+      "hash": "4f2e03ffa78ff1fa016eede87ce4c1f082d59a65522a31cbb33b7ed6f562a9b968a4ee220da84b2c1fb67a98e5ce08506e8f8a3d21619b0270bd32598abecbb3",
+      "hash_meta": "24fee35580acdc147f032f7d61d3ad6d7adc4c163e1f584fd72a6ef518915e7d",
+      "seqno": 1928566
+    },
+    "service": {
+      "hostname": "brettreasor.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1516026731,
+  "expire_in": 504576000,
+  "prev": "c64c50b29f20410f4fc2d0551b414c4e4b21ea8e4b53315e15525755ab7b09d3",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3C0p3qs06hlq/HOmLfyQ4epjMirulV4T6dzxWD+Ey80Kp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGMyZDI5ZGVhYjM0ZWExOTZhZmM3M2E2MmRmYzkwZTFlYTYzMzIyYWVlOTU1ZTEzZTlkY2YxNTgzZjg0Y2JjZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGMyZDI5ZGVhYjM0ZWExOTZhZmM3M2E2MmRmYzkwZTFlYTYzMzIyYWVlOTU1ZTEzZTlkY2YxNTgzZjg0Y2JjZDBhIiwidWlkIjoiMjcwNjhhOTQyYmYzNGQzNmE0OTZlYzVlM2UwNDA5MTkiLCJ1c2VybmFtZSI6ImJyZWFzb3IifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTYwMjY3MTAsImhhc2giOiI0ZjJlMDNmZmE3OGZmMWZhMDE2ZWVkZTg3Y2U0YzFmMDgyZDU5YTY1NTIyYTMxY2JiMzNiN2VkNmY1NjJhOWI5NjhhNGVlMjIwZGE4NGIyYzFmYjY3YTk4ZTVjZTA4NTA2ZThmOGEzZDIxNjE5YjAyNzBiZDMyNTk4YWJlY2JiMyIsImhhc2hfbWV0YSI6IjI0ZmVlMzU1ODBhY2RjMTQ3ZjAzMmY3ZDYxZDNhZDZkN2FkYzRjMTYzZTFmNTg0ZmQ3MmE2ZWY1MTg5MTVlN2QiLCJzZXFubyI6MTkyODU2Nn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJicmV0dHJlYXNvci5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE2MDI2NzMxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImM2NGM1MGIyOWYyMDQxMGY0ZmMyZDA1NTFiNDE0YzRlNGIyMWVhOGU0YjUzMzE1ZTE1NTI1NzU1YWI3YjA5ZDMiLCJzZXFubyI6MTYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAXLkA4Reds8kFtloR9Sohd2iac80VMY/iSYo9v6G+j+kj6MD7CFwV2yerXr2nT3Zea70qxD+U+RkYV7/BIzXGCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILV+6lQRPiwdbjhBWdtRNwz9bJ9RBpKqS9l+dgqsZhD0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/breasor
+
+==================================================================
